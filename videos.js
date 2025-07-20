@@ -962,7 +962,7 @@
                         if(contador==2){
                             let div=document.createElement('div');
                             div.innerHTML=`
-                            <a href="" style="display:inline-block; color:white; padding:10px 20px; background-color:purple;border-radius:9px; font-size:30px;">
+                            <a href="https://victorxx.github.io/hostinger05/" style="display:inline-block; color:white; padding:10px 20px; background-color:purple;border-radius:9px; font-size:30px;">
                             CONFERIR A OPORTUNIDADE
                             </a>
                             `;
